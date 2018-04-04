@@ -42,7 +42,7 @@ require('../resources/mato/lib/php/param.php')
 					<div class="content-padding">
 							<h1 class="text-center">Terms of Service</h1> 
 					<ol>
-							<li>Our service price will be communicated to you when you send a mail to <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a> to get help.
+							<li>Our service price will be communicated to you when you send a mail to <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a> to get help</li>
 							<li> Our most preferred Payment method is Western Union and  Bitcoin. If you don't know it, just send us a mail to <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a> to get help. You can pay in your local currency. The price in dollars is only a reference. If you want to know the price in your local currency, just send us a mail to <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a> to get help</li>
 							<li>To pay through any other payment methods just send us a mail to <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a> to get help. Please understand!</li>
 							<li>We will delay from 3 to 12 hours to get access into the system, depending of the queued orders before yours. There is available an Express Service with an extra cost. It will grant you priority over other orders and reduce the waiting time to the half. Therefore if you need an express service, please indicate it in the mail you would be sending us at <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a></li>
@@ -57,7 +57,7 @@ require('../resources/mato/lib/php/param.php')
 							<li>Remember that you are not committed with us yet, but if you place an order, we will have a contract, and you must fulfill it mandatorily</li>
 							<li>Not to read or misunderstand the rules is not justification for not fulfill them</li>
 							
-							<div style="background-color:rgba(128, 128, 128, 0.8); color: #fff; border: 1px solid #e3e3e3e; margin:5px; padding: 10px">
+							<!--<div style="background-color:rgba(128, 128, 128, 0.8); color: #fff; border: 1px solid #e3e3e3e; margin:5px; padding: 10px">
 							<h4><span style="color:red">**</span>For Grade Hacking Service:</h4>
 							<ol type="a">
 									<li>The price allow to change up to 5 grades</li>
@@ -69,8 +69,8 @@ require('../resources/mato/lib/php/param.php')
 									<li>Effectiveness is 100%. There is no option to fail. We can also guarantee a totally secure and discreet service. We will not leave any trace</li>
 									<li> Although our service is secure, you must be cautious. Don't expect to be the best student with our service, just change the grades you really need, no more</li>
 								</ol>
-							</div>
-							</li>						
+							</div>-->
+												
 					</ol>
 						
 						<h3>HOW TO PLACE AN ORDER?</h3>
