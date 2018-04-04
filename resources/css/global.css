@@ -1,0 +1,83 @@
+.bubble-bg{
+	background: #eeeeee url('../images/backgrounds/binary-bubble.jpg')
+}
+.front-wordings{
+	text-align:center;
+    font-family:Consolas; 
+
+}
+
+	.content-padding{
+		padding: 10px 50px;
+	}
+	.section-head{
+			font-family:Helvetica;
+			padding:20px 10px;
+			font-weight:700;
+			line-height: 40px;
+		}
+img.service-image,img.logo{
+	background-image: none;
+}	
+
+
+@media all and (max-width: 768px){
+	.content-padding{
+		padding: 5px 10px;
+	}
+}
+		
+		
+/*Desktop size*/
+@media all and (min-width: 992px),(min-device-width: 992px){
+.rent-figure{
+}
+}
+/*Tab size*/
+@media all and (max-width: 992px),(max-device-width: 992px){
+/*dashboard styles*/
+}
+
+/*Desktop and Tab size*/
+@media all and (min-width: 768px),(min-device-width: 768px){
+
+}
+/*Smartphone size*/
+@media all and (max-width: 768px),(max-device-width: 768px){
+
+}
+
+/*different smaller screen sizes*/
+@media all and (max-width: 500px),(max-device-width: 500px){
+
+
+}
+
+@media all and (max-width: 400px),(max-device-width: 400px){
+
+}
+
+@media all and (max-width: 250px),(max-device-width: 250px){
+
+
+}
+
+
+
+/*specifically for desktops only*/
+@media all and (min-device-width: 768px){
+	
+}
+/*specifically for tabs only*/
+@media all and (max-device-width: 992px){
+	
+}
+/*specifically for desktops and tabs only*/
+@media all and (max-device-width: 992px){
+	
+}
+/*specifically for smartphones only*/
+@media all and (max-device-width: 768px){
+
+	}
+}

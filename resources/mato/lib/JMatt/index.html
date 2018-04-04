@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>Title</title>
+<script  type="text/javascript" language="javascript" src="global.js"></script>
+<script  type="text/javascript" language="javascript" src="modal.js"></script>
+<style>
+@media all and (max-width:700px){
+.popup-container{
+width:80%;
+}
+}
+</style>
+</head>
+<body>
+<div>
+First child
+</div>
+<div>
+Second child
+</div>
+<button id="popup-demo">show popup</button>
+<button id="websocket-demo">web socket</button>
+
+<script>
+document.querySelector('#popup-demo').addEventListener('click',function(event){
+var popup = new Modal();
+popup.header ="<h1>Header</h1>";
+popup.content = "<h1>This is the pop up body</h1>";
+popup.contentHTML = "";
+popup.doInBackground(function(){console.log("This one is happening in the background...")});
+popup.createModal();
+popup.showModal();
+});
+
+document.querySelector('#websocket-demo').addEventListener('click',function(event){
+socket = new WebSocket('ws://127.0.0.1:80/shelter/');
+
+socket.onopen = function(event){
+console.log("connection opened");
+socket.send("Ping!");
+
+}
+socket.onmessage = function(event){
+console.log("new message received");
+}
+socket.onclose = function(event){
+console.log("connection closed");
+}
+socket.onerror = function(event){
+console.log("error occured!");
+console.log(event);
+}
+});
+
+if(mmm('.kkk').htmlElement.exist()){
+alert("Yaya!");
+}
+else{
+alert("gogo!");
+}
+</script>
+
+
+</body>
+</head>
+</html>

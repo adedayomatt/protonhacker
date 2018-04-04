@@ -1,0 +1,81 @@
+
+@font-face{
+	font-family: ubuntu;
+	src: url('fonts/ubuntu-font-family/Ubuntu-R.ttf');
+}
+body,input,button,select,option{
+		font-family: ubuntu,GeoSansLight,Helvetica,Georgia,"Century Gothic",Arial,sans-serif;
+		font-size: 12px;
+		font-weight:normal;
+		line-height:1.5em;
+		margin: 0px;
+	}
+	
+	body{
+		background-color: #000;
+	}
+	.login-container{
+		width: 40%;
+		margin: 20px 30%;
+		padding: 20px;
+	}
+	input[type='password']{
+		padding: 25px;
+	}
+	.LHS{
+		background-color: #fff;
+		border-radius: 3px;
+		padding: 5px;
+	}
+	.RHS{
+		position: fixed;
+			left: 75%;
+			padding: 10px;
+	}
+	
+		tr.request-row.even{
+			background-color: #f7f7f7;
+		}
+		tr.request-row.odd{
+			background-color: #fff;
+		}
+		tr.table-head{
+			font-size: 14px;
+			font-weight: bold;
+			border-bottom: 1px solid grey;
+			text-align:center;
+		}
+		td{
+			border-left: 1px solid grey;
+			border-right: 1px solid grey;
+			padding: 10px
+		}
+		td.timestamp-cell{
+			border-right: none;
+		}
+
+		@media all and (min-width: 992px){
+
+			.RHS{
+			height: 70vh;
+			overflow-y: scroll;
+			}
+		}
+		@media all and (max-width: 992px){
+			.RHS{
+			position: relative;
+			left: 0px;
+			padding: 10px 100px;
+			}
+
+		}
+		
+		@media all and (max-width: 768px){
+			.login-container,.all-container{
+				width: 95%;
+				margin: 20px 2.5%; 
+			}
+				.RHS{
+			padding: 10px 5px;
+			}
+		}
