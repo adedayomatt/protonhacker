@@ -22,7 +22,7 @@ class config{
 	static $db_password = "matthew";
 	static $db_name = "protonhacker";
 	static $local_server ="localhost";
-	static $root_folder = "protonhacker_alpha";
+	static $root_folder = "protonhacker";
 	static $errorLog_path = "admin/logs";
 }
  
