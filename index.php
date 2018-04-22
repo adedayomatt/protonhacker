@@ -145,6 +145,15 @@ require('resources/mato/lib/php/param.php');
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 section-2">
 					<div class="section-inner section-2-inner">
 						<div class="row">
+							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 section-2-1">
+								<div class="section-inner section-2-1-inner content-padding" >
+									<h1 class="section-head">Your #1 Online Ethical & Unethical Hacking Service Provider</h1>
+									<p>We are Ethical Hackers and Private investigators at your service. Every member of this tech organisation is experienced in their various niches. We have Digital Forensic Specialists, Certified Ethical Hackers, Computer Engineers, Cyber Security Experts, Private investigators and much more as employees.
+									When this team was assembled, we had the goal of solving complex problems and doing the impossible for our clients all over the world, while treating every request with utmost confidentiality
+									</p>
+									<a href="about" class="btn btn-primary">Know more about us</a>
+								</div>
+							</div>
 							<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 section-2-1">
 									<div class="section-inner section-2-1-inner content-padding" >
 										<h1 class="section-head">Our Services</h1>
@@ -198,7 +207,8 @@ require('resources/mato/lib/php/param.php');
 									</div>
 									<div class="service-caption-container">
 										<p>
-Hire a professional hacker to hack a Phone for you. You present us with the phone number and we will get you the current and deleted messages! All messages will be uploaded to an online panel for viewing and updated daily with new messages!										</p>
+Cell Phones have many vulnerabilities. For that reason we offer a service to hack an entire mobile device.
+										</p><br/><br/>
 										<a href="services/?category=services&hack=mobile-phone" class="service-link">More Info</a>
 										<a href="request/?category=services&hack=mobile-phone" class="service-link">Request Service</a>
 									</div>
@@ -212,8 +222,8 @@ Hire a professional hacker to hack a Phone for you. You present us with the phon
 									</div>
 									<div class="service-caption-container">
 										<p>
-										Hire a professional hacker to hack an Instagram account for you. You present us with the Instagram username and we will get you the original password! 
-										</p>
+We can get any password from any Instagram account. Hire our services and get the password from the account you want.	
+									</p><br/>
 										<a href="services/?category=services&hack=instagram" class="more-info-link">More Info</a>
 										<a href="request/?category=services&hack=instagram" class="service-link">Request Service</a>
 									</div>
@@ -227,8 +237,8 @@ Hire a professional hacker to hack a Phone for you. You present us with the phon
 									</div>
 									<div class="service-caption-container">
 										<p>
-Hire a professional hacker to hack a Facebook account for you. You present us with the Facebook ID or Facebook Url and we will get you the original password and email!
-											</p>
+We can get any password, from any Facebook account. We can help you too to get access into a fanpage or group.	
+										</p><br/><br/>
 										<a href="services/?category=services&hack=facebook" class="more-info-link">More Info</a>
 										<a href="request/?category=services&hack=facebook" class="service-link">Request Service</a>
 									</div>
@@ -256,7 +266,8 @@ Hire a professional hacker to hack a WhatsApp account for you. You present us wi
 									</div>
 									<div class="service-caption-container">
 										<p>
-Hire a professional hacker to hack a Snapchat account for you. You present us with the snapchat username and we will get you the original password!</p>
+Do you want to access into a SnapChat account? Spy all its snaps and information? Hire this service!
+										</p><br/><br/>
 										<a href="services/?category=services&hack=snapchat" class="more-info-link">More Info</a>
 										<a href="request/?category=services&hack=snapchat" class="service-link">Request Service</a>
 									</div>
@@ -311,7 +322,8 @@ Hire a professional hacker to hack a website for you. You present us with the ur
 									</div>
 									<div class="service-caption-container">
 										<p>
-Hire a professional hacker to hack to change your grades for you. You present us with your school name, classes, and we will change the grade to fit a average looking citeria! </p>
+We can access into any university/college system in order to change your grades, missed classes, among other things.
+										</p><br/><br/>
 										<a href="services/?category=services&hack=grade" class="more-info-link">More Info</a>
 										<a href="request/?category=services&hack=grade" class="service-link">Request Service</a>
 									</div>
