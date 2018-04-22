@@ -43,7 +43,8 @@
 			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 				<div class="text-center">
 					<p style="color:#fff">For info. &amp services: 
-						<a href="mailto:hacker@protonhacker.com" class="contact-mail-address" title="contact ProtonHacker via email">hacker@protonhacker.com</a>
+								<a href="tel: +18053992804" class="contact-mail-address" title="contact ProtonHacker via phone">+1 805-3992804</a>
+						&#8226;<a href="mailto:hacker@protonhacker.com" class="contact-mail-address" title="contact ProtonHacker via email">hacker@protonhacker.com</a>
 					</p>
 				</div>
 			</div>
@@ -78,31 +79,31 @@
 			<div class="col-lg-10 col-md-10 col-sm-10 col-xs-12" id="menu-container">
 				<ul class="row">
 					<a href="<?php echo $root ?>" class="menu-link">
-						<li class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						<li class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 							Home
 						</li>
 					</a>
 					
 					<a href="<?php echo $root.'/services'?>" class="menu-link">
-						<li class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						<li class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 							Hacking Services
 						</li>
 					</a>
 					
 					<a href="<?php echo $root.'/request'?>" class="menu-link">
-						<li class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						<li class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 							Hire Us
 						</li>
 					</a>
 					
-					<!--<a href="<?php echo $root.'/about'?>" class="menu-link">
+					<a href="<?php echo $root.'/about'?>" class="menu-link">
 						<li class="col-lg-2 col-md-2 col-sm-2 col-xs-12 ">
 							About Us
 						</li>
-					</a>-->
+					</a>
 					
 					<a href="<?php echo $root.'/terms'?>" class="menu-link">
-						<li class="col-lg-3 col-md-3 col-sm-3 col-xs-12 ">
+						<li class="col-lg-2 col-md-2 col-sm-2 col-xs-12 ">
 							Terms of Service
 						</li>
 					</a>

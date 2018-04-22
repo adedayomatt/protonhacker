@@ -67,8 +67,9 @@ $(function () {
 		<div class="text-center">
 			<h4>Contact Us </h4>
 			<a href="#" class="contact-form-link" title="Fill our contact form"><i class="fas fa-edit"></i> Online Form</a><br/>
-			<a href="tel:+12098968403" class="contact-phone-address" title="contact ProtonHacker via phone"><i class="fas fa-phone-square"></i> +12098968403</a><br/>
-			<a href="mailto:hacker@protonhacker.com" class="contact-mail-address" title="contact ProtonHacker via email"><i class="fas fa-envelope-square"></i> hacker@protonhacker.com</a>
+			<a href="tel:+18053992804" class="contact-phone-address" title="contact ProtonHacker via phone"><i class="fas fa-phone-square"></i> +1 805-3992804</a><br/>
+			<a href="mailto:hacker@protonhacker.com" class="contact-mail-address" title="contact ProtonHacker via email"><i class="fas fa-envelope-square"></i> hacker@protonhacker.com</a><br/>
+			<a href="mailto:contact@protonhacker.com" class="contact-mail-address" title="contact ProtonHacker via email"><i class="fas fa-envelope-square"></i> contact@protonhacker.com</a>
 		</div>
 	</div>
 	

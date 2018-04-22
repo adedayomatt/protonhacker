@@ -163,7 +163,7 @@
 								<div class="text-center">
 									<h1 class="wordings-major"><?php echo $wordingsMajor ?></h1>
 									<h3  class="wordings-minor"><?php echo $wordingsMinor?></h3>
-									
+									<p class="text-center" style="background-color: rgba(128,128,128,0.5); padding: 10px;border-radius: 5px;">Submit your application by sending a mail describing your task to <a href="mailto: hacker@protonhacker.com">hacker@protonhacker.com</a> or fill and submit the form on this page</p>
 									<p style="color: rgba(0,0,100,1)"><i>Once you submit your application, a team member will review it! Once done, we will email you an invoice for payment acceptance</i></p>
 									<h4><i class="fas fa-exclamation-triangle" style="color:red"></i> DO NOT submit the application if you do not have payment ready yet</h4>
 									<br/>
